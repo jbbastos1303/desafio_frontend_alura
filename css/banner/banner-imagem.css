@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.banner__imagem{
+    width: 100%;
+    height: 352px;
+    background-image: url("../../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}

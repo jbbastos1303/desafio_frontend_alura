@@ -1,0 +1,6 @@
+@charset "UTF-8";
+.rodape__logo{
+    background-image: url(../../images/Logo.png);
+    width: 176px;
+    height: 50px;
+}
