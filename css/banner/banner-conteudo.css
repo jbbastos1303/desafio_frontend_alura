@@ -1,8 +1,7 @@
 .banner__conteudo{
-    top: 25%;
+    top: 16rem;
     width: 1136px;
     display: flex;
     flex-direction: column;
     position: absolute;
-
 }
