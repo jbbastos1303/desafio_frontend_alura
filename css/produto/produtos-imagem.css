@@ -1,6 +1,12 @@
 .produtos__imagem{
+}
 
-
-
+.produtos__imagem-detalhe{
+    width: 560px;
+    height: 403px;
+    background-image: url(../../images/StarWars01.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0px 16px;
 }
 

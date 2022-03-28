@@ -1,0 +1,7 @@
+.produtos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 1136px;
+    height: 403px;
+}

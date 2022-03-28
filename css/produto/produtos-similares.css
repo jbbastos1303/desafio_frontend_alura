@@ -1,0 +1,4 @@
+.produtos__similares{
+    display: flex;
+    flex-direction: column;
+}

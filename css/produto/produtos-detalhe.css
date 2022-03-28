@@ -1,0 +1,7 @@
+.produtos__detalhe{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 560px;
+    height: 210px;
+}
