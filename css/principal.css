@@ -1,0 +1,7 @@
+.principal{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    background: #F5F5F5
+}

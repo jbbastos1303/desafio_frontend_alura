@@ -1,8 +1,9 @@
 .produtos__conteudo{
     width: 176px;
+    height: 252px;
     display: flex;
     flex-direction: column;
-
+    margin: 0px 10px;
 }
 
 
