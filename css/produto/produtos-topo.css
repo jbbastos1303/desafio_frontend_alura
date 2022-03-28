@@ -1,6 +1,7 @@
 .produtos__topo{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-top: 40px;
+    width: 1133px;
 }
